@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.diw.co.id/images/portfolio/logo/logo-forum-universitas-buddhi-dharma.webp" width="370" alt="Logo Telkom University"></p>
+<p align="center"><img src="https://sia.ubd.ac.id/images/asset/h_.png" width="370" alt="Logo Buddhi Dharma"></p>
 <p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="500" alt="Laravel Logo"></p>
 
 # Kelompok 3
