@@ -27,7 +27,7 @@ Repository ini dibuat bertujuan untuk memenuhi tugas besar mata kuliah Rekayasa 
 -   Clone project dari github ini
 
 ```bash
-git clone https://github.com/SI-RPL-2023/SI-44-06_A_BidjiCourse.git
+git clone https://github.com/Dartagtm/web_bwa.git
 ```
 
 -   Copy file `.env.example` dan rename menjadi `.env`
